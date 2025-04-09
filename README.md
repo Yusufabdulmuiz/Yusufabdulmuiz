@@ -1,5 +1,5 @@
-<h1 align="center">
-  👋 I'm Yusuf Abdulmuiz (Abu Ridwan)!
+<<h1 align="center">
+   I'm Yusuf Abdulmuiz (Abu Ridwan)!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
 
@@ -32,12 +32,11 @@ I'm a passionate **Frontend Developer** who enjoys building sleek, responsive, a
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulmuiz5Yusuf&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulmuiz5Yusuf&theme=tokyonight" width="48%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufAbdulmuiz&show_icons=true&theme=tokyonight" width="48%" />
+  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuiz5Yusuf&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAbdulmuiz&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -48,7 +47,7 @@ I'm a passionate **Frontend Developer** who enjoys building sleek, responsive, a
   <a href="https://ng.linkedin.com/in/abdulmuiz-olasunkanmi-yusuf-0a0433248" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/Abdulmuiz5Yusuf?t=7Du0fJV-P3eXLyutXVCUow&s=09" target="_blank">
+  <a href="https://x.com/YusufAbdulmuiz?t=7Du0fJV-P3eXLyutXVCUow&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -58,9 +57,9 @@ I'm a passionate **Frontend Developer** who enjoys building sleek, responsive, a
 ### ⚡ Fun Stats
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Abdulmuiz5Yusuf&color=blueviolet" />
-  <img src="https://img.shields.io/github/followers/Abdulmuiz5Yusuf?style=social" />
-  <img src="https://img.shields.io/github/stars/Abdulmuiz5Yusuf?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=YusufAbdulmuiz&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/YusufAbdulmuiz?style=social" />
+  <img src="https://img.shields.io/github/stars/YusufAbdulmuiz?style=social" />
 </p>
 
 ---
@@ -78,7 +77,6 @@ I'm a passionate **Frontend Developer** who enjoys building sleek, responsive, a
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
 
-<p align="center"><i>Let’s build the future, one beautiful UI at a time. May Allah guide the journey!</i></p>
+<p align="center"><i>Let’s build the future, one beautiful UI at a time!</i></p>
 
 ---
-
